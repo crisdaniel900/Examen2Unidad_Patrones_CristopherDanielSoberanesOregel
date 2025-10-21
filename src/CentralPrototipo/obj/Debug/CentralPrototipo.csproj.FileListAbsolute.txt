@@ -1,0 +1,14 @@
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U2\CentralPrototipo\bin\Debug\CentralPrototipo.exe.config
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U2\CentralPrototipo\bin\Debug\CentralPrototipo.exe
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U2\CentralPrototipo\bin\Debug\CentralPrototipo.pdb
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U2\CentralPrototipo\obj\Debug\CentralPrototipo.csproj.AssemblyReference.cache
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U2\CentralPrototipo\obj\Debug\CentralPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U2\CentralPrototipo\obj\Debug\CentralPrototipo.exe
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U2\CentralPrototipo\obj\Debug\CentralPrototipo.pdb
+C:\Users\luigu\Source\Repos\ExamenUnidad2_Patrones_CristopherDanielSoberanesOregel\src\CentralPrototipo\bin\Debug\CentralPrototipo.exe.config
+C:\Users\luigu\Source\Repos\ExamenUnidad2_Patrones_CristopherDanielSoberanesOregel\src\CentralPrototipo\bin\Debug\CentralPrototipo.exe
+C:\Users\luigu\Source\Repos\ExamenUnidad2_Patrones_CristopherDanielSoberanesOregel\src\CentralPrototipo\bin\Debug\CentralPrototipo.pdb
+C:\Users\luigu\Source\Repos\ExamenUnidad2_Patrones_CristopherDanielSoberanesOregel\src\CentralPrototipo\obj\Debug\CentralPrototipo.csproj.AssemblyReference.cache
+C:\Users\luigu\Source\Repos\ExamenUnidad2_Patrones_CristopherDanielSoberanesOregel\src\CentralPrototipo\obj\Debug\CentralPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\luigu\Source\Repos\ExamenUnidad2_Patrones_CristopherDanielSoberanesOregel\src\CentralPrototipo\obj\Debug\CentralPrototipo.exe
+C:\Users\luigu\Source\Repos\ExamenUnidad2_Patrones_CristopherDanielSoberanesOregel\src\CentralPrototipo\obj\Debug\CentralPrototipo.pdb
